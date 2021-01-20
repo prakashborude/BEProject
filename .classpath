@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/saideep/Downloads/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/activation.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/mail.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/org.apache.commons.fileupload.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/sphinx4.jar"/>
+	<classpathentry kind="lib" path="E:/BE Project/all jar files/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
